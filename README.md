@@ -23,6 +23,6 @@ Welcome to **Who's That Pokemon?**, a thrilling web-based quiz game inspired by 
 - **JavaScript**: Game logic, timer, and interactivity.
 - **Google Fonts**: Poppins font for a modern look.
 
-Play now: [https://iam269.github.io/Who-s-That-Pokemon/](https://iam269.github.io/Who-s-That-Pokemon/)
+Play now: [https://itsiamdev.github.io/Who-s-That-Pokemon/](https://itsiamdev.github.io/Who-s-That-Pokemon/)
 
 Enjoy the game and catch 'em all! 🎉
